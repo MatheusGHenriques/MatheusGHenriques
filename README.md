@@ -41,7 +41,7 @@
     <td valign="middle" align="center" width="50%">
       <img src="https://github-readme-stats.vercel.app/api?username=MatheusGHenriques&show_icons=true&theme=blue_navy&hide_border=false"/>
       <br/><br/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusGHenriques&layout=compact&theme=blue_navy&hide_border=false"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusGHenriques&layout=compact&theme=blue_navy&hide_border=false&langs_count=2"/>
     </td>
   </tr>
 </table>
