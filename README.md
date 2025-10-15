@@ -12,6 +12,7 @@
           <img src="https://img.shields.io/badge/C++-295D87?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
           <img src="https://img.shields.io/badge/Python-366994?style=for-the-badge&logo=python&logoColor=white" />
           <img src="https://img.shields.io/badge/PyTorch-3C3C66?style=for-the-badge&logo=pytorch&logoColor=white" />
+          <img src="https://img.shields.io/badge/Shell_Scripting-20496A?style=for-the-badge&logo=gnu-bash&logoColor=white" />
         </p>
         <h3>Tools</h3>
         <p>
