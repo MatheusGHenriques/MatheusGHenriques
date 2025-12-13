@@ -12,7 +12,7 @@
           <img src="https://img.shields.io/badge/C++-295D87?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
           <img src="https://img.shields.io/badge/Python-366994?style=for-the-badge&logo=python&logoColor=white" />
           <img src="https://img.shields.io/badge/PyTorch-3C3C66?style=for-the-badge&logo=pytorch&logoColor=white" />
-          <img src="https://img.shields.io/badge/Shell_Scripting-20496A?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+          <img src="https://img.shields.io/badge/Bash-20496A?style=for-the-badge&logo=gnu-bash&logoColor=white" />
         </p>
         <h3>Tools</h3>
         <p>
@@ -20,8 +20,6 @@
           <img src="https://img.shields.io/badge/IntelliJ_IDEA-2F3A5A?style=for-the-badge&logo=intellijidea&logoColor=white" />
           <img src="https://img.shields.io/badge/Android_Studio-3F6B78?style=for-the-badge&logo=androidstudio&logoColor=white" />
           <img src="https://img.shields.io/badge/NeoVim-4D5E82?style=for-the-badge&logo=neovim&logoColor=white" />
-          <img src="https://img.shields.io/badge/Jira-223E5C?style=for-the-badge&logo=jira&logoColor=white" />
-          <img src="https://img.shields.io/badge/Figma-2E3A59?style=for-the-badge&logo=figma&logoColor=white" />
         </p>
         <h3>Contact</h3>
        <p align="center">
