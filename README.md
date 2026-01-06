@@ -38,9 +38,9 @@
       </div>
     </td>
     <td valign="middle" align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=MatheusGHenriques&show_icons=true&theme=blue_navy&hide_border=false"/>
+      <img src="https://github-readme-stats-five-chi-68.vercel.app/api?username=MatheusGHenriques&show_icons=true&theme=holi&hide=prs,issues"/>
       <br/><br/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusGHenriques&layout=compact&theme=blue_navy&hide_border=false&hide=swift,c%2B%2B,cmake&langs_count=3"/>
+      <img src="https://github-readme-stats-five-chi-68.vercel.app/api/top-langs/?username=MatheusGHenriques&layout=compact&theme=holi&hide=swift,c%2B%2B,cmake&langs_count=3"/>
     </td>
   </tr>
 </table>
