@@ -49,10 +49,25 @@ Lightweight Host Intrusion Prevention System written in Bash for SSH hardening f
 - Automatic IPv4/IPv6 blocking and unblocking via `iptables`/`ip6tables`
 - Persistent event logging and auto-generated configuration
 
+### [The Door](https://github.com/MatheusGHenriques/The-Door)
+Self-imposed digital and app blocker for Android that combines multiple system mechanisms into a layered barrier against impulsive bypasses.
+- Accessibility Service, Device Admin, and system-level restrictions
+- Optional network-level filtering via RethinkDNS and hardened Firefox browsing
+- Third-party PIN secured with Argon2id and AES-256 GCM via Android Keystore
+- No internet permission, no telemetry, fully local configuration
+
+### [nRISC-8](https://github.com/MatheusGHenriques/nRISC-8)
+Educational 8-bit RISC-inspired processor written in Verilog HDL, co-developed with [Gabriel Moura](https://github.com/GabsMN) for a Computer Architecture course.
+- Harvard-style single-cycle datapath with separate instruction and data memories
+- Custom ISA with R/I/M/J instruction formats and hardwired control unit
+- Simulation testbench computing the greatest proper divisor of an integer
+
+### [CP-SAT Team Allocation Solver](https://github.com/MatheusGHenriques/CP-SAT-Team-Allocation-Solver)
+Constraint-based team allocation solver using Google OR-Tools CP-SAT for balancing preferences, scores, and fairness.
+- Lexicographic optimization across preference, score balance, and veteran distribution
+- Optional Pareto frontier analysis and Monte Carlo robustness testing
+
 ### [JavaChess](https://github.com/MatheusGHenriques/JavaChess)
 Desktop chess application built in Java with Swing/AWT.
-- Move validation, check/checkmate detection, pawn promotion
-- Object-oriented architecture with encapsulated game state
-- Swing/AWT desktop GUI with dynamic resizing and local persistence
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1C3B70&height=120&section=footer"/>
