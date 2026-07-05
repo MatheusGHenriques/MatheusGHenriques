@@ -62,7 +62,7 @@ Educational 8-bit RISC-inspired processor written in Verilog HDL, co-developed w
 - Custom ISA with R/I/M/J instruction formats and hardwired control unit
 - Simulation testbench computing the greatest proper divisor of an integer
 
-### [CP-SAT Team Allocation Solver](https://github.com/MatheusGHenriques/CP-SAT-Team-Allocation-Solver)
+### [CP-SAT Team Allocation Solver](https://github.com/MatheusGHenriques/CP-SAT-Team-Allocation)
 Constraint-based team allocation solver using Google OR-Tools CP-SAT for balancing preferences, scores, and fairness.
 - Lexicographic optimization across preference, score balance, and veteran distribution
 - Optional Pareto frontier analysis and Monte Carlo robustness testing
